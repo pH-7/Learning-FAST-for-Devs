@@ -11,6 +11,7 @@
 Let your colleagues know that you are in a solo work training and cannot be reachable.
 Close slack, don't check your emails, kanban/scrum boards, etc (no exception during these three days), put your phone on airplane mode. 
 This is very important to avoid any interruption or thinking of something else that you could have seen in your emails, on Slack, text, news app.
+
 ![Busy. Deep Work. Don't disturb](https://media.giphy.com/media/VjAB0fOmK15Ze/giphy.gif)
 
 4. During your 10 minute "chill out time", relax, take a cup of tea, listen some good vibes, walk a little bit outside (without cell phones, Slack or emails!). Otherwise, you won't rest and your brain will still be actively working and you won't be as efficient as you could after your break time.
@@ -26,10 +27,12 @@ You don't need to waste time here. Just do the 20% that gives you the 80% of the
 8. Start now a simple project from scratch with the new language. Something simple, but if possible replying with an API (so you also understand how to fetch remote data with the new language). 
 
 9. When you don’t understand something, check on the official documentation or on StackOverflow and write down the solution in order to learn more efficiency.
+
 ![Accomplishment. Succeed challenges](https://media.giphy.com/media/l0Iy7zmLUiALbkna8/giphy.gif)
 
 10. Teach what you just learned. Doing this will structure and organize the flow of information you learned and understand better the topic, see what you haven't learned yet and reinforce them.
 Do a 30-minute tech workshop at work (e.g. with Google Slides) or see to participate to a tech Meetup, screencast yourself coding a part of the new project while commenting what you do (no pressure, you don't necessary have to share it or publish it on Youtube), publish a Medium/Dev.to post, etc.
+
 ![Teach what you learn in order to remember more efficiency](https://media.giphy.com/media/3ohc10nduj1irsuzgA/giphy.gif)
 
 
