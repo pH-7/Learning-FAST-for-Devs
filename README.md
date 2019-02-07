@@ -21,7 +21,7 @@ You don't need to waste time here. Just do the 20% that gives you the 80% of the
 
 6. Set a timer, and every 35 minute, write down (or record yourself) what you learnt (in order to see if you really work efficiency).
 
-7. The next day, take a small project you have previously done (or a small feature you did at work) and convert it to the new technology or language you are learning. Remember, it doesn’t necessary have to work if it’s a feature relying on an app, but here, the exercise is to understand the new language/technology based on something you already know well. By doing that, you will understand the new stack much more efficiency.
+7. The next day, take a small project you have previously done (or a small feature you did at work) and convert it to the new technology or language you are learning. Remember, it doesn’t necessary have to work if it’s a feature relying on an app, but here, the exercise is to understand the new language/skill based on something you already know well. By doing that, you will understand the new stack much more efficiency.
 
 8. Start now a simple project from scratch with the new language. Something simple, but if possible replying with an API (so you also understand how to fetch remote data with the new language). 
 
