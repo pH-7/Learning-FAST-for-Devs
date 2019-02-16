@@ -30,7 +30,7 @@ You don't need to waste time here. Just do the 20% that gives you the 80% of the
 
 ![Accomplishment. Succeed challenges](https://media.giphy.com/media/l0Iy7zmLUiALbkna8/giphy.gif)
 
-10. Teach what you just learned. Doing this will structure and organize the flow of information you learned and understand better the topic, see what you haven't learned yet and reinforce them.
+10. Teach what you just learned. Doing this will structure and organize the flow of information you learned, allowing you to understand better the topic and see what you haven't learned yet and reinforce them.
 Do a 30-minute tech workshop at work (e.g. with Google Slides) or see to participate to a tech Meetup, screencast yourself coding a part of the new project while commenting what you do (no pressure, you don't necessary have to share it or publish it on Youtube), publish a Medium/Dev.to post, etc.
 
 ![Teach what you learn in order to remember more efficiency](https://media.giphy.com/media/3ohc10nduj1irsuzgA/giphy.gif)
