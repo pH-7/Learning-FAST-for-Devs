@@ -33,7 +33,7 @@ You don't need to waste time here. Just do the 20% that gives you the 80% of the
 10. Teach what you just learned. Doing this will structure and organize the flow of information you learned, allowing you to understand better the topic and see what you haven't learned yet and reinforce them.
 Do a 30-minute tech workshop at work (e.g. with Google Slides) or see to participate to a tech Meetup, screencast yourself coding a part of the new project while commenting what you do (no pressure, you don't necessary have to share it or publish it on Youtube), publish a Medium/Dev.to post, etc.
 
-![Teach what you learn in order to remember more efficiency](https://i.giphy.com/media/3ohc10nduj1irsuzgA/giphy.gif)
+![Teach what you learn in order to remember more efficiency](https://user-images.githubusercontent.com/1325411/58345206-18372600-7e58-11e9-8458-b12920765bac.gif)
 
 
 *Now, if your boss (or for a new job) ask you to build a new app or API with a new framework, language or skill you have never used before, you know what learning tricks to use in order to be excellent and 3 times more efficient at it in just a matter of days...*
