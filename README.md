@@ -18,7 +18,7 @@ This is very important to avoid any interruption or thinking of something else t
 
 5. Depending on the topic and what you already know, it can be shorter (or longer..). 
 And SKIP everything you already know without exception. You need discipline at this stage. You'll see it's worth it!
-You don't need to waste time here. Just do the 20% that gives you the 80% of the knowledge you just need right now for the new project.
+You don't need to waste time here. Just do the 20% that gives you 80% of the knowledge you just need right now for the new project.
 
 6. Set a timer, and every 35 minutes, write down (or record yourself) what you learnt (in order to see if you really work efficiency).
 
