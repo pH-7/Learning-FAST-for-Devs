@@ -20,7 +20,7 @@ This is very important to avoid any interruption or thinking of something else t
 And SKIP everything you already know without exception. You need discipline at this stage. You'll see it's worth it!
 You don't need to waste time here. Just do the 20% that gives you 80% of the knowledge you just need right now for the new project.
 
-6. Set a timer, and every 35 minutes, write down (or record yourself) what you learnt (in order to see if you really work efficiency).
+6. Set a timer, and every 35 minutes, write down (or record yourself) what you learned (in order to see if you really work efficiency).
 
 7. The next day, take a small project you have previously done (or a small feature you did at work) and convert it to the new technology or language you are learning. Remember, it doesn’t necessarily have to work if it’s a feature relying on an app, but here, the exercise is to understand the new language/technology based on something you already know well. By doing that, you will understand the new stack much more efficiency.
 
