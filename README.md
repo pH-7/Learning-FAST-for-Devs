@@ -36,4 +36,4 @@ Do a 30-minute tech workshop at work (e.g. with Google Slides) or see to partici
 ![Teach what you learn in order to remember more efficiency](https://user-images.githubusercontent.com/1325411/58345206-18372600-7e58-11e9-8458-b12920765bac.gif)
 
 
-*Now, if your boss (or for a new job) ask you to build a new app or API with a new framework, language or skill you have never used before, you know what learning tricks to use in order to be excellent and 3 times more efficient at it in just a matter of days...*
+*Now, if your boss (or for a new job) ask you to build a new app or API with a new framework, language or skill you have never used before, you know what learning tricks to use in order to be excellent and 3 times more efficient at it in just a matter of days...!*
