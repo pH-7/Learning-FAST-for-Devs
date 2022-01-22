@@ -1,5 +1,8 @@
 # Learning F.A.S.T. for Devs™
 
+![learning-fast-for-devs](https://user-images.githubusercontent.com/1325411/150629612-9aed1da3-1042-4949-b204-a4d59cf59c56.png)
+
+
 ## Learning FAST for Devs". The 4 Deep Days Methodology 🚀
 
 
