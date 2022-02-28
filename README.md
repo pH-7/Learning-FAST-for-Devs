@@ -33,7 +33,7 @@ You don't need to waste time here. Just do the 20% that gives you 80% of the kno
 
 ![Accomplishment. Succeed challenges](https://media.giphy.com/media/l0Iy7zmLUiALbkna8/giphy.gif)
 
-10. Teach what you just learned. By doing this, you will **structure, organize and reinforce the flow of information** you learned, allowing you to understand better the topic and see what you haven't learned yet. Do a 30-minute tech workshop at work (e.g. with Google Slides) or to participate at a tech Meetup/event, screencast yourself coding a part of the new project while commenting on what you do (no pressure, you don't necessarily have to share it or publish it on Youtube), publish a Medium/Dev.to post, etc.
+10. Teach what you just learned. By doing this, you will **structure, organize and reinforce the flow of information** you learned, allowing you to understand better the topic and see what you haven't learned yet. Do a 30-minute tech workshop at work (e.g. with Google Slides) or to participate at a tech Meetup/event, screencast yourself coding a part of the new project while commenting on what you do (no pressure, you don't necessarily have to share it or publish it on a streaming platform), publish a Medium, a Hashnode post, a technology podcast, etc.
 
 > If you can't explain it simply, you don't understand it well enough.
 > - Albert Einstein
